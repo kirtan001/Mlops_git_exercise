@@ -3,11 +3,10 @@ class HelloWorld:
         print("Hello, Class!")
         print("Hello India")
         print("Hello MSC Data Science")
-<<<<<<< HEAD
         print("Hello World from MLOps Git Exercise!")
-=======
         print("This is Git exercise")
->>>>>>> e301004491564353372d94453b2b096825c8bf8f
+        print("creating a conflict")
+
         
 def main() -> None:
     HelloWorld.main()
