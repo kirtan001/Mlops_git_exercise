@@ -1,5 +1,4 @@
 class HelloWorld:
-    @staticmethod
     def main() -> None:
         print("Hello, Class!")
         
