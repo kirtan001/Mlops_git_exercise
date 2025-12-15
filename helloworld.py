@@ -3,6 +3,7 @@ class HelloWorld:
         print("Hello, Class!")
         print("Hello India")
         print("Hello MSC Data Science")
+        print("This is Git exercise")
         
 def main() -> None:
     HelloWorld.main()
