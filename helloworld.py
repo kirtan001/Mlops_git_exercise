@@ -1,6 +1,7 @@
 class HelloWorld:
     def main() -> None:
         print("Hello, Class!")
+        print("Hello India")
         
 
 
